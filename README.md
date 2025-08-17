@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<img align="right" width = 250px height = 200px alt="Github" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHQyaDl5dmJwZnAwOXFyNnh0cWx0dWo5a2M4N3hqbWVqcW9sc2hydyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/teq50rwxeb6uFiVxVh/giphy.gif" />
+<img align="right" width = 250px height = 200px alt="Github" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGtmYTEydWVmcnF1Zmg3ZWJiNGdrbWFsZzUwdmtjcDkzNDNidDh2biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SlKBbQNNZNfcPRWYW7/giphy.gif" />
 
 Mechatronics student from Ciudad Juárez, driven by the fusion of AI, IoT, and real-world engineering.
 
